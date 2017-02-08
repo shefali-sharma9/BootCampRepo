@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello new file in the git BootcampRepo.
+=======
+Hello Everyone.
+>>>>>>> 33014bf94d573ba216606b68143cd9163ae9f502
